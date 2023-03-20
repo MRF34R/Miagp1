@@ -1,0 +1,3790 @@
+fileFormatVersion: 2
+guid: 96873cf2e66d6634daf31b8ae531c695
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheetbutbetter_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1531
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a50734a7d3304f9e62329263062cc
+      internalID: -1592159085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1531
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee35902d8a313b4429e7b90e2ec5dafa
+      internalID: 126858054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1531
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfa4462b08c0144d8db52cc030bba02
+      internalID: 439843743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1531
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb6795348aa5b945ad8783e3e9190e7
+      internalID: 1990922449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1531
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f5ef0abfe69424e8c7ed7c336886bf
+      internalID: 46936886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1531
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05459ab9035f57478019da25fdae953
+      internalID: 1998967249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1531
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ab64e9cef5b448bfa13414b9cab02
+      internalID: 1494168438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1531
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed5f5684fb1ad4387db514aabe74fe
+      internalID: -816782640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1531
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e6c8cd227bbb49add39ca195566c4
+      internalID: -1069534036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1531
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877f06ddb8e89f4b93fe1c17695f2ec
+      internalID: -194816859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1531
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f0a85fea72ebc45a3f4564146e0c60
+      internalID: -1200154054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1531
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551814ae74890a54cb4db67bdd50e058
+      internalID: -1500254873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1531
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a2e10bd199cd408785378022c9ffe
+      internalID: -1888439635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1281
+        width: 364
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4de0e051f1e1944927ebe56b70b335
+      internalID: -992814173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1390
+        width: 105
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee9df2ae8b5cc48904d17b07552913
+      internalID: -1785549683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1349
+        width: 91
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ac7b9df96281d40bbefa7a290a2904
+      internalID: 302596666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1349
+        width: 91
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0712aa3e6d5b45b76d27c9e357cff
+      internalID: -1158956109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1251
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603911f5b0e118b45a5cbb8b3a34669e
+      internalID: -414916105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1251
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ff0ef88c0e7794b9946add9ccfb330
+      internalID: -305172777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1251
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd134617c1f84489bab7bb86847550
+      internalID: -1299557725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1251
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad0dffd2f1de64097614f0668e0757
+      internalID: -830391526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1182
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af9581fc2a775b4696967ebbd70bb9b
+      internalID: 1683822983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1184
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb0f1ddd985343498d8a343e43673d1
+      internalID: 2101853977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1182
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f028bf36977da3647af03634578461a7
+      internalID: -1053547612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1182
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7543570b8cec440a35fe752522a0fc
+      internalID: -619383513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1182
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7529baf887b774baaba2198da9e862
+      internalID: -386615036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1184
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5ec9b1023f3b14998d234f1a289e5f
+      internalID: -534793180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1182
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbdcce662b39394f897fa0d89de7dca
+      internalID: -1365117316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1182
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b1acb7c105c2945b588c4c5eb8b912
+      internalID: 1998321840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_29
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1148
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f3ccffc2bb7e43a07548eae1aea55
+      internalID: 1418080704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_30
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1148
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0771e319f4efa77429622d5e4ac187c8
+      internalID: 1023619913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_31
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1157
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe6ec1dd829a6f4d8dac0191b2df715
+      internalID: -988200964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_32
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1167
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287bffacf2c288c44b2255f117be5895
+      internalID: 616487600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_33
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1172
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5becafb8a76f6b24da5a11f1b87a2de0
+      internalID: -1753807503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_34
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1150
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8bb07edf2d291469aa56aeb600dade
+      internalID: 1084874722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_35
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1157
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071d43c4062c7d34ca2cedb15cf0bc5e
+      internalID: -823350583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_36
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1157
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5f84ea1d0d1fe4caea1bba4662fb11
+      internalID: 1660972372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_37
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1157
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7404caaac92141a1a9c9001daac79
+      internalID: -1521469891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_38
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1157
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f784b1b1163740b42887c9f3fe3b2bd3
+      internalID: 542221095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_39
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd77b726f92d15145b12b25e7f2a10b7
+      internalID: -1169196979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1092
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1770ed3b196dce24fb452514391ed583
+      internalID: 1347264308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_41
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1105
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbf6b0502fb7bc44a738729ca089269
+      internalID: 1098741895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1105
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb23c886c271b04a9312e5135f7744f
+      internalID: 1134682959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1105
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959822b09b5bb84b997da5c7d883ee5
+      internalID: 1810171247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1105
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6237760f36f96645bd7be933bb42efb
+      internalID: -1767215684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1068
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ef5ac5eda11d84b951ddcacb4d6bee
+      internalID: -1754630193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_46
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1092
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9b3129a559735468da9ad53a2a23f1
+      internalID: -1761378167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_47
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1092
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ce6918049a1894398ea656730e6bc7
+      internalID: -877818027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_48
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1096
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416029a499035ed4391a973a4a69392d
+      internalID: 766084422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1013
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe27c8943a79e42b4f10d3fa186c6c
+      internalID: 1914143663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 922
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab1c6545d7f55246a228a8e57671b4d
+      internalID: 1785456751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 937
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e660ea5791a2ea749b6640fad99a735d
+      internalID: -1852898385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 928
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dd4debf1291134284ca3c7836100e1
+      internalID: 1063382336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 813
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970a14b3e366694398c41e0779befa8
+      internalID: 1124913606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 813
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e690f8725c302c4a84a13b5f74000f7
+      internalID: -172910841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 813
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d891c953b3b494c8a453e9a6a2bf07
+      internalID: -623971094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 753
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd035b6cc27f1f41b36d1fe33e9dd1d
+      internalID: -660003637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 753
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ffd9c8047603646886071030e9d770
+      internalID: 1668364651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 753
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604070aad1835754085be64b9a753317
+      internalID: -456659230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 753
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fc0b7a2140bbe45b2f81e1e7cc73f9
+      internalID: 1426581410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 684
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfb17e04df97b4597eaaacc8b09d15
+      internalID: 1594906113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 684
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03e9ace74f37844b30dc678a4ed6bc
+      internalID: -25236903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 684
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89837064e457bd144986676fd368b1dc
+      internalID: 1133324255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 684
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518cd48cbdfeeec43a908983b76ab30c
+      internalID: 329780246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 684
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98026cee54c7794183788672bf9ae97
+      internalID: 122926999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 580
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15ccb1fdaf3304a99148e77b0a1d70
+      internalID: -180987562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 580
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83a932bc99ba954aa52b10f80a8b9f0
+      internalID: 1356209453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_67
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 580
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b97e7ccd74b50040be7eed084274656
+      internalID: 1707820793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_68
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 580
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45602877de9f1e74f9556840aa8996d9
+      internalID: 751162536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_69
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 610
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4697e449fad7ab046b523d727472a1a7
+      internalID: 1138828146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_70
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 604
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2146746891aacd1438c556af1737dbff
+      internalID: -937766859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_71
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 601
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f0b91b3649704eae48968937ecf54
+      internalID: -1558999544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_72
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 601
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0bf6ed528c57a4aae0e9073915ba0a
+      internalID: -740837995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_73
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 618
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9486413fc8bf4647ab1165e830754ea
+      internalID: -1337769218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_74
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 597
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3480e7f29dc5c40409066cf16e5a2266
+      internalID: 1787871448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_75
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 616
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3055d6e223bd384dbfc96289dbb76f8
+      internalID: 505460140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_76
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 597
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0426da3f0f373a148840091ff7f805a4
+      internalID: -1586349209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_77
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 602
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9b8429f9bc66d45bba40f5a6552cb3
+      internalID: -1441207567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_78
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 615
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24866c075ea6bd947bea27e74875eb96
+      internalID: 1550942512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_79
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 612
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c055019eb4142f141a6c6781455baa9d
+      internalID: 43234070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_80
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 594
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94de781bff3705e4f891319b9a124751
+      internalID: -1942673088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_81
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 611
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a51bdf1944efd439f51d7df9b2d6ac
+      internalID: -1642545323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_82
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 597
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2e012baf0f609469b7312b4615ac85
+      internalID: 752565918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_83
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 602
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e031eb0927d4e1343bbb9b3c04375d3f
+      internalID: 758413915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_84
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 607
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929ceb240364af843831801c8f86193b
+      internalID: -1317961470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_85
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 601
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7a7fbb6de61745bf94598d900c7c2
+      internalID: 81397071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_86
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 555
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c41d3f8adefcf644b69aa3b02ae8bc7
+      internalID: 249496331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_87
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 549
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1c3007b37e542479c05d0fc45f52b3
+      internalID: -611376736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_88
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 563
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830876dd75cf30948947ceab7497fcc4
+      internalID: -773036712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_89
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 567
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f94c47d99091748a57bd66d5b69a6c
+      internalID: -1499435074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_90
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 554
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec075f687765d346a0aac7e1d9f3310
+      internalID: 1610344259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_91
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 559
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3619a68b420269448ab5382fa3540c59
+      internalID: -1366918119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_92
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 549
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de503373ad985fd43a9cfdde7466f8df
+      internalID: -756892349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_93
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 564
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be02e30bf742b449a7233022f57c654
+      internalID: -646764937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 546
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47819e05c66c2f544824bdae94704436
+      internalID: -855233739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 463
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89305fb9efbdbe45a31109b838f59b0
+      internalID: -1768351364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_96
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 414
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697bb390b1f54a94eae9ab98803bc0cf
+      internalID: 653133227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_97
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 414
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7561fa21a99c15c4da11999af1b1aed9
+      internalID: -1350504625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_98
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 414
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3aa75d97b1bc347be239e4f49855d7
+      internalID: 2043054756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759614df98cee2e47b4926a11187c713
+      internalID: -1904112264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_100
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 288
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4505c760dc825004b8bceea0590f1b8e
+      internalID: -37633421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_101
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 288
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f246f5ec7855bf4ead04d515fa2b374
+      internalID: 547009317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_102
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 288
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b184f5d0028d794ca2a88580d784b68
+      internalID: -891507578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_103
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 288
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56097cdd199c1547a1de6cb6102b59c
+      internalID: -1514997439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_104
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 281
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa3dd46248bfb4b92329c2cbf8d5ca
+      internalID: 919827644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_105
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 354
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7544b4c274df1d8429a0c19af509a6ae
+      internalID: -1789625847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_106
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 275
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add728a1ed80c804b917b5eeee7679da
+      internalID: 858528117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_107
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 354
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b642e0ebc15a2b74e9ce1926d353634f
+      internalID: -28234744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_108
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 336
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adf4dbc3ea9a3a4aa9c6988ca5b71f5
+      internalID: -2079185304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_109
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 360
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b717fbc8d6b99448640779dfca03ae
+      internalID: 203546373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_110
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 347
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d494784562eb0047bdc5441b6ce7800
+      internalID: 1593742354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_111
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 329
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09678a6d7cfbf6c43a5e18c266ff3314
+      internalID: 1470406798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_112
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 352
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4268f2032262243ab1bcf356c6adfc
+      internalID: -1954018065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_113
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 336
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf0da0b0b367d44fb3f877bc437fb22
+      internalID: -847110970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_114
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 329
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ef1ff2dec37f4d8893eec9ee9103d
+      internalID: -571117224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_115
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 340
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00c1a13e288cdf4fb9deb7b863afe75
+      internalID: -1234363012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_116
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 308
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5a1767f1abe3446b5a58a2441c9914
+      internalID: -826294591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_117
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 292
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5f2ac1306a77c4d9b89a2137e1ec83
+      internalID: 145067430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_118
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 323
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01852a9b03ae04b8487ba9f2eb9b4d
+      internalID: 683194793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_119
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 306
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d70afdc01ebc4a4a9f805c019cfefa8
+      internalID: 1949336763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_120
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9885555e74c56204a9a71621437ed4e2
+      internalID: -207735580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_121
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 297
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4365c4f6413526e4fbb0709953521f0c
+      internalID: -586001994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_122
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 294
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b04de0968eb3834ab109c8643c06864
+      internalID: 769587885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 277
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d082cbd6998dc40b317eb4b674b2a2
+      internalID: 223017290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_124
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 273
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5223d510775a0b49a9b375654950061
+      internalID: 1669378564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_125
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 190
+        width: 116
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3ff198b8232674aaaf30064edd3762
+      internalID: 602123000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_126
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 225
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbda6f2217a2dd243949cc39e5b4d076
+      internalID: 2006704107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_127
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 190
+        width: 141
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc794ea77ed9e6d44be18a9f8d4f4534
+      internalID: -147402814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_128
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 216
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2576105952a598840b7cfbc0e75a278d
+      internalID: 1011109289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_129
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 184
+        width: 147
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad35acd4b08b44e8e4f604959f7c82
+      internalID: 1191991186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_130
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b77a4af0316e4da52c4fb3204e57f
+      internalID: -277949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_131
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 222
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750878b3e9b22e045a4fec79b240f1b7
+      internalID: 2111852271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_132
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 225
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344718dbf9ba1a48b0e4d88c5ede766
+      internalID: -101168634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_133
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 220
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd057f8a16b63a446b2091bbf09b648e
+      internalID: -2095257057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_134
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 184
+        width: 111
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f171a9965f1cc24ab4a36c9f05da495
+      internalID: -519875969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_135
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 213
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c97c30d34c63c347b09873fc06a4bb3
+      internalID: 1265418570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_136
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 207
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a86659e3ff7874c9d87c371b7b6cd6
+      internalID: -200183108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_137
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 192
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965506ee2933b5540a8a0585098c439f
+      internalID: -173234321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_138
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 215
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8fbe394773a8a41b906163cf4247db
+      internalID: 523793284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_139
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 183
+        width: 136
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0900b92061bfc24a8dbef01303a8684
+      internalID: 1461578518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_140
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 214
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b3ef16ab7e224dbd11b0517252e46
+      internalID: -1668682208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_141
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 213
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884faa7fd4e279c4fa43552bd9500566
+      internalID: -343008661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_142
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 208
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba0b8b81f8fd4f49ad9b6920da38968
+      internalID: 234657864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_143
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 210
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c6d9400e8bf6c4489e6199042192a8
+      internalID: -1082041585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_144
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 191
+        width: 95
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806d5508679d59b4bab78657fed012a1
+      internalID: 608003622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_145
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 197
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3973669f87cd01943af04dcccc1cf749
+      internalID: -2043060948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_146
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 193
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79091be8151bb6046a43db6f06532419
+      internalID: -416560924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_147
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 191
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d889fbd1d6badc4ca8a5468a9cc6cb0
+      internalID: -1625868324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_148
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 194
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bda05271ca6944fa55bb8d111cece8
+      internalID: -1189097195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_149
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 189
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d7fee1c5c17d418b468bc7de37dff
+      internalID: 431650527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_150
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 188
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3340e2b15434974890a026da167e942
+      internalID: 786929248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_151
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106ebcdf55105164aaed936789c7f6e1
+      internalID: 2065124786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_152
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 87
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aca883979a25049ae6331d6dc5c69d
+      internalID: -1155851871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_153
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 87
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe5e8555d29424697835d47a2a3166
+      internalID: -2064553315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_154
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 82
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86832a1c8b1668949963a5c8ff67392f
+      internalID: 384675562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_155
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 82
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a7c624e6f38843947aa7910708702
+      internalID: -1574361923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_156
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 91
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d1d316cd972934392ee1998139b6fa
+      internalID: 1800220709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_157
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 101
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea6bd39a2f86824d8d9172cddf53123
+      internalID: -730103357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_158
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 106
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd356d53799e2b43976c6e6f8ef47b8
+      internalID: 1873590136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_159
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1af91966304b8418c40cc20bf1c4e1
+      internalID: -213199894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_160
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e479afe4c94953448c72fbf687eed1b
+      internalID: -1716706026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_161
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 9
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8058e64f52c79489ebdc9f326ae91a
+      internalID: 1362485330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_162
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462f261cb17deb54ca3ce5e1a3baee30
+      internalID: 933349273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetbutbetter_163
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 9
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd4970bff0f7e1498dd0a2b254a1c5b
+      internalID: 426059676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spritesheetbutbetter_55: -623971094
+      spritesheetbutbetter_20: -830391526
+      spritesheetbutbetter_119: 1949336763
+      spritesheetbutbetter_94: -855233739
+      spritesheetbutbetter_85: 81397071
+      spritesheetbutbetter_42: 1134682959
+      spritesheetbutbetter_52: 1063382336
+      spritesheetbutbetter_110: 1593742354
+      spritesheetbutbetter_138: 523793284
+      spritesheetbutbetter_158: 1873590136
+      spritesheetbutbetter_154: 384675562
+      spritesheetbutbetter_61: -25236903
+      spritesheetbutbetter_26: -534793180
+      spritesheetbutbetter_38: 542221095
+      spritesheetbutbetter_90: 1610344259
+      spritesheetbutbetter_63: 329780246
+      spritesheetbutbetter_100: -37633421
+      spritesheetbutbetter_160: -1716706026
+      spritesheetbutbetter_24: -619383513
+      spritesheetbutbetter_150: 786929248
+      spritesheetbutbetter_86: 249496331
+      spritesheetbutbetter_80: -1942673088
+      spritesheetbutbetter_33: -1753807503
+      spritesheetbutbetter_124: 1669378564
+      spritesheetbutbetter_153: -2064553315
+      spritesheetbutbetter_5: 1998967249
+      spritesheetbutbetter_46: -1761378167
+      spritesheetbutbetter_134: -519875969
+      spritesheetbutbetter_54: -172910841
+      spritesheetbutbetter_140: -1668682208
+      spritesheetbutbetter_135: 1265418570
+      spritesheetbutbetter_45: -1754630193
+      spritesheetbutbetter_88: -773036712
+      spritesheetbutbetter_122: 769587885
+      spritesheetbutbetter_163: 426059676
+      spritesheetbutbetter_120: -207735580
+      spritesheetbutbetter_137: -173234321
+      spritesheetbutbetter_144: 608003622
+      spritesheetbutbetter_121: -586001994
+      spritesheetbutbetter_44: -1767215684
+      spritesheetbutbetter_143: -1082041585
+      spritesheetbutbetter_107: -28234744
+      spritesheetbutbetter_22: 2101853977
+      spritesheetbutbetter_136: -200183108
+      spritesheetbutbetter_91: -1366918119
+      spritesheetbutbetter_129: 1191991186
+      spritesheetbutbetter_28: 1998321840
+      spritesheetbutbetter_161: 1362485330
+      spritesheetbutbetter_68: 751162536
+      spritesheetbutbetter_60: 1594906113
+      spritesheetbutbetter_79: 43234070
+      spritesheetbutbetter_98: 2043054756
+      spritesheetbutbetter_29: 1418080704
+      spritesheetbutbetter_157: -730103357
+      spritesheetbutbetter_115: -1234363012
+      spritesheetbutbetter_31: -988200964
+      spritesheetbutbetter_77: -1441207567
+      spritesheetbutbetter_53: 1124913606
+      spritesheetbutbetter_59: 1426581410
+      spritesheetbutbetter_99: -1904112264
+      spritesheetbutbetter_95: -1768351364
+      spritesheetbutbetter_151: 2065124786
+      spritesheetbutbetter_6: 1494168438
+      spritesheetbutbetter_75: 505460140
+      spritesheetbutbetter_83: 758413915
+      spritesheetbutbetter_78: 1550942512
+      spritesheetbutbetter_113: -847110970
+      spritesheetbutbetter_27: -1365117316
+      spritesheetbutbetter_139: 1461578518
+      spritesheetbutbetter_117: 145067430
+      spritesheetbutbetter_145: -2043060948
+      spritesheetbutbetter_146: -416560924
+      spritesheetbutbetter_25: -386615036
+      spritesheetbutbetter_47: -877818027
+      spritesheetbutbetter_65: -180987562
+      spritesheetbutbetter_108: -2079185304
+      spritesheetbutbetter_2: 439843743
+      spritesheetbutbetter_56: -660003637
+      spritesheetbutbetter_133: -2095257057
+      spritesheetbutbetter_39: -1169196979
+      spritesheetbutbetter_84: -1317961470
+      spritesheetbutbetter_109: 203546373
+      spritesheetbutbetter_40: 1347264308
+      spritesheetbutbetter_131: 2111852271
+      spritesheetbutbetter_30: 1023619913
+      spritesheetbutbetter_10: -1200154054
+      spritesheetbutbetter_41: 1098741895
+      spritesheetbutbetter_49: 1914143663
+      spritesheetbutbetter_50: 1785456751
+      spritesheetbutbetter_70: -937766859
+      spritesheetbutbetter_97: -1350504625
+      spritesheetbutbetter_159: -213199894
+      spritesheetbutbetter_23: -1053547612
+      spritesheetbutbetter_114: -571117224
+      spritesheetbutbetter_57: 1668364651
+      spritesheetbutbetter_87: -611376736
+      spritesheetbutbetter_21: 1683822983
+      spritesheetbutbetter_147: -1625868324
+      spritesheetbutbetter_64: 122926999
+      spritesheetbutbetter_12: -1888439635
+      spritesheetbutbetter_105: -1789625847
+      spritesheetbutbetter_128: 1011109289
+      spritesheetbutbetter_67: 1707820793
+      spritesheetbutbetter_106: 858528117
+      spritesheetbutbetter_112: -1954018065
+      spritesheetbutbetter_37: -1521469891
+      spritesheetbutbetter_0: -1592159085
+      spritesheetbutbetter_18: -305172777
+      spritesheetbutbetter_116: -826294591
+      spritesheetbutbetter_111: 1470406798
+      spritesheetbutbetter_9: -194816859
+      spritesheetbutbetter_126: 2006704107
+      spritesheetbutbetter_62: 1133324255
+      spritesheetbutbetter_73: -1337769218
+      spritesheetbutbetter_127: -147402814
+      spritesheetbutbetter_71: -1558999544
+      spritesheetbutbetter_93: -646764937
+      spritesheetbutbetter_96: 653133227
+      spritesheetbutbetter_104: 919827644
+      spritesheetbutbetter_66: 1356209453
+      spritesheetbutbetter_69: 1138828146
+      spritesheetbutbetter_142: 234657864
+      spritesheetbutbetter_32: 616487600
+      spritesheetbutbetter_155: -1574361923
+      spritesheetbutbetter_3: 1990922449
+      spritesheetbutbetter_72: -740837995
+      spritesheetbutbetter_48: 766084422
+      spritesheetbutbetter_101: 547009317
+      spritesheetbutbetter_76: -1586349209
+      spritesheetbutbetter_89: -1499435074
+      spritesheetbutbetter_102: -891507578
+      spritesheetbutbetter_132: -101168634
+      spritesheetbutbetter_15: 302596666
+      spritesheetbutbetter_34: 1084874722
+      spritesheetbutbetter_58: -456659230
+      spritesheetbutbetter_123: 223017290
+      spritesheetbutbetter_8: -1069534036
+      spritesheetbutbetter_17: -414916105
+      spritesheetbutbetter_35: -823350583
+      spritesheetbutbetter_16: -1158956109
+      spritesheetbutbetter_92: -756892349
+      spritesheetbutbetter_162: 933349273
+      spritesheetbutbetter_156: 1800220709
+      spritesheetbutbetter_4: 46936886
+      spritesheetbutbetter_149: 431650527
+      spritesheetbutbetter_11: -1500254873
+      spritesheetbutbetter_1: 126858054
+      spritesheetbutbetter_125: 602123000
+      spritesheetbutbetter_81: -1642545323
+      spritesheetbutbetter_152: -1155851871
+      spritesheetbutbetter_118: 683194793
+      spritesheetbutbetter_103: -1514997439
+      spritesheetbutbetter_82: 752565918
+      spritesheetbutbetter_141: -343008661
+      spritesheetbutbetter_7: -816782640
+      spritesheetbutbetter_19: -1299557725
+      spritesheetbutbetter_43: 1810171247
+      spritesheetbutbetter_13: -992814173
+      spritesheetbutbetter_14: -1785549683
+      spritesheetbutbetter_51: -1852898385
+      spritesheetbutbetter_36: 1660972372
+      spritesheetbutbetter_130: -277949
+      spritesheetbutbetter_74: 1787871448
+      spritesheetbutbetter_148: -1189097195
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
